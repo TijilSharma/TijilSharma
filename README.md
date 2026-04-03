@@ -2,11 +2,11 @@
 
 ```
 ╔════════════════════════════════════════╗
-║         TIJIL SHARMA                  ║
+║              TIJIL SHARMA              ║
 ╚════════════════════════════════════════╝
 ```
 
-**Aspiring systems architect & backend engineer**
+### **Aspiring systems architect & backend engineer**
 
 *Building things that scale. Breaking things that don't.*
 
@@ -14,13 +14,20 @@
 
 ---
 
-### `$ whoami`
+## `$ whoami`
 
-Backend-leaning full-stack engineer with a thing for clean architecture, distributed systems, and writing code that doesn't embarrass future me. I care about how systems are structured as much as whether they work.
+Backend-leaning full-stack engineer who enjoys:
+
+- clean architecture  
+- distributed systems  
+- backing ambitious ideas with solid engineering  
+- writing code my future self won’t swear at  
+
+I think about *how* systems are structured just as much as whether they work.
 
 ---
 
-### `$ cat tech-stack.json`
+## `$ cat tech-stack.json`
 
 ```json
 {
@@ -35,7 +42,7 @@ Backend-leaning full-stack engineer with a thing for clean architecture, distrib
 
 ---
 
-### `$ ls interests/`
+## `$ ls interests/`
 
 ```
 distributed-systems/     system-design/
@@ -47,6 +54,9 @@ api-design/              containerization/
 
 <div align="center">
 
-*"First make it work. Then make it right. Then make it fast."*
+### *"First make it work. Then make it right. Then make it fast."*
 
 </div>
+
+---
+
